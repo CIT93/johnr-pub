@@ -1,2 +1,2 @@
 # johnr-pub
-John ROdriguez public repo for CIT93
+John Rodriguez public repo for CIT93
